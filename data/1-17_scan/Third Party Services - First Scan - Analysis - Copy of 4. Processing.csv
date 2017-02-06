@@ -1,0 +1,574 @@
+SLD,Service,Internal/External,Category,Notes
+2o7.net,activenetwork.122.2o7.net,external,,
+2o7.net,bluewatermedia.112.2o7.net,external,,Duplicate SLD
+2o7.net,cdc.112.2o7.net,external,,Duplicate SLD
+2o7.net,fdic.122.2o7.net,external,,Duplicate SLD
+2o7.net,jpmorganchase.112.2o7.net,external,,Duplicate SLD
+2o7.net,nci.122.2o7.net,external,,Duplicate SLD
+4seeresults.com,controller.4seeresults.com,external,,
+4seeresults.com,replaycontroller.4seeresults.com,external,,Duplicate SLD
+abmr.net,ak1s.abmr.net,external,,
+achp.gov,www.achp.gov,external,Government,
+acquia-sites.com,dnfsbstg.prod.acquia-sites.com,external,,
+acquia.com,cdn.lift.acquia.com,external,,
+acquia.com,us-east-1-capture.lift.acquia.com,external,,Duplicate SLD
+acquia.com,us-east-1-widget.lift.acquia.com,external,,Duplicate SLD
+activefederal.com,recreation-acm.activefederal.com,external,,
+adbrn.com,sp.adbrn.com,external,,
+addthis.com,api-public.addthis.com,external,,
+addthis.com,m.addthis.com,external,,Duplicate SLD
+addthis.com,q.addthis.com,external,,Duplicate SLD
+addthis.com,s7.addthis.com,external,,Duplicate SLD
+addthis.com,s9.addthis.com,external,,Duplicate SLD
+addthis.com,secure.addthis.com,external,,Duplicate SLD
+addthisedge.com,m.addthisedge.com,external,,
+adnxs.com,ib.adnxs.com,external,,
+adnxs.com,secure.adnxs.com,external,,Duplicate SLD
+adobe.com,www.adobe.com,external,,
+adobedtm.com,assets.adobedtm.com,external,,
+adobetag.com,www.adobetag.com,external,,
+adr.gov,search.adr.gov,internal,,
+adsrvr.org,insight.adsrvr.org,external,,
+adsrvr.org,match.adsrvr.org,external,,Duplicate SLD
+adsymptotic.com,p.adsymptotic.com,external,,
+agkn.com,aa.agkn.com,external,,
+agkn.com,d.agkn.com,external,,Duplicate SLD
+aids.gov,blog.aids.gov,internal,,
+airnowtech.org,files.airnowtech.org,external,,
+akamaihd.net,ds-aksb-a.akamaihd.net,external,,
+akamaihd.net,id03a4300-ds-aksb-a.akamaihd.net,external,,Duplicate SLD
+amazonaws.com,ago-item-storage.s3-external-1.amazonaws.com,external,no,
+amazonaws.com,contentwrx.s3.amazonaws.com,external,,Duplicate SLD
+amazonaws.com,cpsc-drupal-media-prod.s3.amazonaws.com,external,,Duplicate SLD
+amazonaws.com,cpsc-media-dev.s3.amazonaws.com,external,,Duplicate SLD
+amazonaws.com,easyrotator.s3.amazonaws.com,external,,Duplicate SLD
+amazonaws.com,gsa-cmp-fileupload.s3.amazonaws.com,external,,Duplicate SLD
+amazonaws.com,gtrk.s3.amazonaws.com,external,,Duplicate SLD
+amazonaws.com,prd-wret.s3-us-west-2.amazonaws.com,external,,Duplicate SLD
+amazonaws.com,s3-us-gov-west-1.amazonaws.com,external,,Duplicate SLD
+amazonaws.com,s3.amazonaws.com,external,,Duplicate SLD
+america.gov,share.america.gov,internal,,
+anchor.local,anchor.local,external,,
+answerscloud.com,gateway.answerscloud.com,external,,looks like owned by foresee
+arcgis.com,js.arcgis.com,external,,
+arcgis.com,nps.maps.arcgis.com,external,,Duplicate SLD
+arcgis.com,static.arcgis.com,external,,Duplicate SLD
+arcgis.com,utility.arcgis.com,external,,Duplicate SLD
+arcgisonline.com,server.arcgisonline.com,external,,
+arcgisonline.com,serverapi.arcgisonline.com,external,,Duplicate SLD
+arcgisonline.com,services.arcgisonline.com,external,,Duplicate SLD
+archives.gov,www.archives.gov,external,Government,
+aspnetcdn.com,ajax.aspnetcdn.com,external,,
+audioeye.com,ws.audioeye.com,external,,
+audioeye.com,wsv2.audioeye.com,external,,Duplicate SLD
+azureedge.net,choosemyplate-prod.azureedge.net,external,,
+azureedge.net,iperceptions01.azureedge.net,external,Customer Satisfaction,
+banknet.gov,www.banknet.gov,external,Government,
+bidswitch.net,x.bidswitch.net,external,,
+bizographics.com,www.bizographics.com,external,,
+bja.gov,www.bja.gov,external,Government,
+bluekai.com,stags.bluekai.com,external,,
+bootstrapcdn.com,maxcdn.bootstrapcdn.com,external,no,
+bootstrapcdn.com,netdna.bootstrapcdn.com,external,,Duplicate SLD
+brightcove.com,admin.brightcove.com,external,no,
+brightcove.com,metrics.brightcove.com,external,,Duplicate SLD
+brightcove.com,sadmin.brightcove.com,external,,Duplicate SLD
+brightcove.net,players.brightcove.net,external,no,
+browsealoud.com,plus.browsealoud.com,external,,
+browsealoud.com,www.browsealoud.com,external,,Duplicate SLD
+browser-update.org,browser-update.org,external,,
+bugherd.com,www.bugherd.com,external,,
+bugsy.,bugsy,external,,
+cachefly.net,tinymce.cachefly.net,external,,
+cancer.gov,livehelp.cancer.gov,external,Government,
+cancer.gov,static.cancer.gov,external,Government,
+cancer.gov,static.cancer.gov,internal,,
+casalemedia.com,dsum-sec.casalemedia.com,external,,
+cdc.gov,smtrics.cdc.gov,external,Government,
+cdc.gov,tools.cdc.gov,external,Government,
+cdc.gov,www.cdc.gov,external,Government,
+cdc.gov,smtrics.cdc.gov,internal,,
+cdc.gov,www2c.cdc.gov,internal,,
+cdninstagram.com,scontent.cdninstagram.com,external,,
+cetrk.com,trk.cetrk.com,external,,
+cfigroup.com,cdnmon.cfigroup.com,external,,
+chartbeat.com,static.chartbeat.com,external,,
+chartbeat.net,ping.chartbeat.net,external,,
+chase.com,chaseonline.chase.com,external,,
+chase.com,www.chase.com,external,,Duplicate SLD
+cloudflare.com,cdnjs.cloudflare.com,external,,
+cloudfront.net,d10lpsik1i8c69.cloudfront.net,external,,
+cloudfront.net,d13qcyivyon4xf.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d14rmgtrwzf5a.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d15vqlr7iz6e8x.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d1aug3dv5magti.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d1w86dhf197kq6.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d2gfdmu30u15x7.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d39pc38av48c2g.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d39se0h2uvfakd.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d3mvnvhjmkxpjz.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d3nekkt1lmmhms.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,d9jmv9u00p0mv.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,dc8na2hxrj29i.cloudfront.net,external,,Duplicate SLD
+cloudfront.net,dnn506yrbagrg.cloudfront.net,external,,Duplicate SLD
+cms.gov,assets.cms.gov,external,Government,
+cms.gov,marketplace.cms.gov,external,Government,
+cms.gov,assets.cms.gov,internal,,
+commerce.gov,search.commerce.gov,internal,,
+congress.gov,smon.congress.gov,internal,,
+convertexperiments.com,cdn-3.convertexperiments.com,external,,
+convertlanguage.com,analytics.convertlanguage.com,external,,
+coremetrics.com,data.coremetrics.com,external,,
+coremetrics.com,libs.coremetrics.com,external,,Duplicate SLD
+coremetrics.com,tmscdn.coremetrics.com,external,,Duplicate SLD
+cpsc.gov,www.cpsc.gov,external,Government,
+crazyegg.com,script.crazyegg.com,external,no,
+create.net,login.create.net,external,,
+crsspxl.com,tag.crsspxl.com,external,,
+crwdcntrl.net,bcp.crwdcntrl.net,external,,
+ctctcdn.com,static.ctctcdn.com,external,,
+d3js.org,d3js.org,external,,
+datatables.net,cdn.datatables.net,external,,
+dcodes.net,cdn.dcodes.net,external,,
+defense.gov,media.defense.gov,external,Government,
+defense.gov,stats.defense.gov,external,Government,
+defense.gov,www.defense.gov,external,Government,
+defense.gov,media.defense.gov,internal,,
+defense.gov,stats.defense.gov,internal,,
+demdex.net,dpm.demdex.net,external,,
+dhs.gov,www.dhs.gov,external,Government,
+dhs.gov,search.dhs.gov,internal,,
+digitalgov.gov,dap.digitalgov.gov,external,Government,
+digitalgov.gov,dap.digitalgov.gov,internal,,
+disqus.com,disqus.com,external,,
+dni.gov,www.dni.gov,external,Government,
+doc.gov,www.esa.doc.gov,external,Government,
+doi.gov,webanalytics.ibc.doi.gov,external,Government,
+doi.gov,www.doi.gov,external,Government,
+dol.gov,www.dol.gov,external,Government,
+dol.gov,www.youthrules.dol.gov,external,Government,
+doubleclick.net,4720818.fls.doubleclick.net,external,,
+doubleclick.net,4844720.fls.doubleclick.net,external,,Duplicate SLD
+doubleclick.net,5942243.fls.doubleclick.net,external,,Duplicate SLD
+doubleclick.net,ad.doubleclick.net,external,,Duplicate SLD
+doubleclick.net,cm.g.doubleclick.net,external,,Duplicate SLD
+doubleclick.net,googleads.g.doubleclick.net,external,,Duplicate SLD
+doubleclick.net,googleads4.g.doubleclick.net,external,,Duplicate SLD
+doubleclick.net,securepubads.g.doubleclick.net,external,,Duplicate SLD
+doubleclick.net,static.doubleclick.net,external,,Duplicate SLD
+doubleclick.net,stats.g.doubleclick.net,external,,Duplicate SLD
+dsply.com,www.dsply.com,external,,
+dvidshub.net,static.dvidshub.net,external,,
+ed.gov,www2.ed.gov,external,Government,
+ed.gov,www2.ed.gov,internal,,
+edgefonts.net,use.edgefonts.net,external,,
+energy.gov,apps1.eere.energy.gov,external,Government,
+energy.gov,www.eere.energy.gov,external,Government,
+energy.gov,www1.eere.energy.gov,external,Government,
+energycodes.gov,stats.energycodes.gov,internal,,
+epa.gov,www.epa.gov,external,Government,
+epa.gov,www3.epa.gov,external,Government,
+ethn.io,ethn.io,external,,I think this would be a yes.  -GB
+eyeota.net,ps.eyeota.net,external,,
+faa.gov,www.faa.gov,external,Government,
+facebook.com,graph.facebook.com,external,no,
+facebook.com,staticxx.facebook.com,external,,Duplicate SLD
+facebook.com,www.facebook.com,external,,Duplicate SLD
+facebook.net,connect.facebook.net,external,no,
+fasab.gov,files.fasab.gov,internal,,
+fbcdn.net,external.fphl1-1.fna.fbcdn.net,external,,
+fbcdn.net,external.xx.fbcdn.net,external,,Duplicate SLD
+fbcdn.net,scontent.fphl1-1.fna.fbcdn.net,external,,Duplicate SLD
+fbcdn.net,scontent.xx.fbcdn.net,external,,Duplicate SLD
+fbcdn.net,static.xx.fbcdn.net,external,,Duplicate SLD
+fcc.gov,www.fcc.gov,external,Government,
+fdic.gov,www.fdic.gov,external,Government,
+federalreserve.org,ews-sdc.federalreserve.org,external,,
+feedburner.com,feeds.feedburner.com,external,,
+feedrapp.info,www.feedrapp.info,external,,
+fhfaoig.gov,origin.www.fhfaoig.gov,internal,,
+flickr.com,api.flickr.com,external,no,
+flickr.com,embedr.flickr.com,external,,Duplicate SLD
+flickr.com,farm1.static.flickr.com,external,,Duplicate SLD
+flickr.com,farm3.static.flickr.com,external,,Duplicate SLD
+flickr.com,farm6.static.flickr.com,external,,Duplicate SLD
+flickr.com,farm9.static.flickr.com,external,,Duplicate SLD
+flickr.com,secure.flickr.com,external,,Duplicate SLD
+flickr.com,widgets.flickr.com,external,,Duplicate SLD
+flickr.com,www.flickr.com,external,,Duplicate SLD
+fontawesome.com,use.fontawesome.com,external,,
+fonticons.com,use.fonticons.com,external,,
+fonts.com,fast.fonts.com,external,,
+fonts.net,fast.fonts.net,external,,
+force.com,c.na26.visual.force.com,external,,
+foreignassistance.gov,beta.foreignassistance.gov,internal,,
+foresee.com,health.foresee.com,external,Customer Satisfaction,
+foreseeresults.com,events.foreseeresults.com,external,Customer Satisfaction,
+ftccomplaintassistant.gov,chat.ftccomplaintassistant.gov,external,Government,
+ftccomplaintassistant.gov,chat.ftccomplaintassistant.gov,internal,,
+getclicky.com,in.getclicky.com,external,,
+getclicky.com,static.getclicky.com,external,,Duplicate SLD
+ggpht.com,lh3.ggpht.com,external,,
+ggpht.com,yt3.ggpht.com,external,,Duplicate SLD
+githubusercontent.com,raw.githubusercontent.com,external,no,
+google-analytics.com,ssl.google-analytics.com,external,no,
+google-analytics.com,www.google-analytics.com,external,no,
+google.com,accounts.google.com,external,,
+google.com,apis.google.com,external,,
+google.com,calendar.google.com,external,,
+google.com,clients1.google.com,external,,
+google.com,clients6.google.com,external,,
+google.com,cse.google.com,external,,
+google.com,translate.google.com,external,no,
+google.com,www.google.com,external,no,
+googleadservices.com,www.googleadservices.com,external,no,
+googleapis.com,ajax.googleapis.com,external,no,
+googleapis.com,fonts.googleapis.com,external,no,
+googleapis.com,maps.googleapis.com,external,no,
+googleapis.com,storage.googleapis.com,external,no,
+googleapis.com,translate.googleapis.com,external,no,
+googleapis.com,www.googleapis.com,external,no,
+googlesyndication.com,tpc.googlesyndication.com,external,no,
+googletagmanager.com,www.googletagmanager.com,external,no,
+googletagservices.com,www.googletagservices.com,external,no,
+googleusercontent.com,themes.googleusercontent.com,external,no,
+govdelivery.com,content.govdelivery.com,external,,
+govdelivery.com,public.govdelivery.com,external,,Duplicate SLD
+gpo.gov,analytics.gpo.gov,internal,,
+granicusops.com,webcontent.granicusops.com,external,,
+grantsolutions.gov,home.grantsolutions.gov,internal,,
+gravatar.com,secure.gravatar.com,external,,
+gsaauctions.gov,gsaauctions.gov,external,Government,
+gstatic.com,csi.gstatic.com,external,,
+gstatic.com,fonts.gstatic.com,external,,Duplicate SLD
+gstatic.com,maps.gstatic.com,external,,Duplicate SLD
+gstatic.com,ssl.gstatic.com,external,,Duplicate SLD
+gstatic.com,www.gstatic.com,external,,Duplicate SLD
+healthcare.gov,assets.healthcare.gov,external,Government,
+healthcare.gov,assets.healthcare.gov,internal,,
+healthday.com,media.healthday.com,external,,
+heapanalytics.com,cdn.heapanalytics.com,external,no,
+heapanalytics.com,heapanalytics.com,external,,Duplicate SLD
+here.com,js.api.here.com,external,,
+hhs.gov,comment-app.hhs.gov,external,Government,
+hhs.gov,wcdapps.hhs.gov,external,Government,
+hhs.gov,www.hhs.gov,external,Government,
+hotjar.com,script.hotjar.com,external,,
+hotjar.com,static.hotjar.com,external,,Duplicate SLD
+hotjar.com,vars.hotjar.com,external,,Duplicate SLD
+house.gov,clerk.house.gov,external,Government,
+house.gov,edit-chinacommission.house.gov,external,Government,
+hrsa.gov,datawarehouse.hrsa.gov,external,Government,
+hrsa.gov,www.hrsa.gov,external,Government,
+hs-analytics.net,js.hs-analytics.net,external,Customer Satisfaction,HHS Voice of Customer Tool
+hs-scripts.com,js.hs-scripts.com,external,,
+hubspot.com,track.hubspot.com,external,,
+hud.gov,portal.hud.gov,external,Government,
+hud.gov,webtrendscs.hud.gov,external,Government,
+iconfinder.com,cdn1.iconfinder.com,external,,
+identitytheft.gov,www.identitytheft.gov,external,Government,
+imgur.com,i.imgur.com,external,,
+indianaffairs.gov,ucm.indianaffairs.gov,external,Government,
+indianaffairs.gov,ucm.indianaffairs.gov,internal,,
+informer.com,feed.informer.com,external,,
+insurekidsnow.gov,www.insurekidsnow.gov,external,Government,
+iperceptions.com,api.iperceptions.com,external,Customer Satisfaction,
+iperceptions.com,ips-invite.iperceptions.com,external,Customer Satisfaction,
+iperceptions.com,universal.iperceptions.com,external,Customer Satisfaction,
+jquery.com,code.jquery.com,external,,
+jsdelivr.net,cdn.jsdelivr.net,external,,
+justice.gov,www.justice.gov,external,Government,
+jwpcdn.com,ssl.p.jwpcdn.com,external,,
+kaltura.com,cdnapisec.kaltura.com,external,,
+kaltura.com,cdnsecakmi.kaltura.com,external,,Duplicate SLD
+keen.io,api.keen.io,external,,
+lbl.gov,ecopartnerships.lbl.gov,external,Government,
+lbl.gov,wwwdev.lbl.gov,internal,,
+lcacommons.gov,drupal.lcacommons.gov,internal,,
+leadin.com,js.leadin.com,external,,
+licdn.com,snap.licdn.com,external,,
+licdn.com,static.licdn.com,external,,Duplicate SLD
+linkedin.com,dc.ads.linkedin.com,external,,
+linkedin.com,platform.linkedin.com,external,,Duplicate SLD
+linkedin.com,us-east-1.dc.ads.linkedin.com,external,,Duplicate SLD
+linkedin.com,www.linkedin.com,external,,Duplicate SLD
+linksynergy.com,cm.dsp.linksynergy.com,external,,
+list-manage.com,mc.us13.list-manage.com,external,,
+llnl.gov,analytics.llnl.gov,internal,,
+loc.gov,cdn.loc.gov,external,Government,
+loc.gov,cmon.loc.gov,external,Government,
+loc.gov,smon.loc.gov,external,Government,
+loc.gov,www.loc.gov,external,Government,
+loc.gov,cdn.loc.gov,internal,,
+loc.gov,smon.loc.gov,internal,,
+longtailvideo.com,lp.longtailvideo.com,external,,
+luckyorange.com,cdn.luckyorange.com,external,,
+luckyorange.com,ssl.luckyorange.com,external,,Duplicate SLD
+mailchimp.com,cdn-images.mailchimp.com,external,,
+mathjax.org,cdn.mathjax.org,external,,
+mathtag.com,pixel.mathtag.com,external,,
+max.gov,login.max.gov,internal,,
+mcc.gov,assets.mcc.gov,internal,,
+mda.gov,mise.mda.gov,internal,,
+media6degrees.com,stpix.media6degrees.com,external,,
+medium.com,cdn-images-1.medium.com,external,,
+medium.com,cdn-static-1.medium.com,external,,Duplicate SLD
+medium.com,medium.com,external,,Duplicate SLD
+meltwater.com,feed.meltwater.com,external,,
+meltwaternews.com,meltwaternews.com,external,,
+meltwaternews.com,www.meltwaternews.com,external,,Duplicate SLD
+microsoft.com,ajax.microsoft.com,external,,
+mixpanel.com,api.mixpanel.com,external,Customer Satisfaction,
+mobify.com,a.mobify.com,external,,
+mouseflow.com,cdn.mouseflow.com,external,,
+mpeasylink.com,hhsfoodsafety.mpeasylink.com,external,,
+mpeasylink.com,hhsmentalhealth.mpeasylink.com,external,,Duplicate SLD
+mpeasylink.com,hhsorgandonor.mpeasylink.com,external,,Duplicate SLD
+mpeasylink.com,hhsstopbullying.mpeasylink.com,external,,Duplicate SLD
+mpeasylink.com,hhsvaccines.mpeasylink.com,external,,Duplicate SLD
+mpeasylink.com,ncua.mpeasylink.com,external,,Duplicate SLD
+msecnd.net,az452423.vo.msecnd.net,external,,
+mxpnl.com,cdn.mxpnl.com,external,,
+myfonts.net,hello.myfonts.net,external,,
+ncjrs.gov,ovc.ncjrs.gov,external,Government,
+ncrc.gov,www.ncrc.gov,external,Government,
+netdna-ssl.com,fonticons-free-fonticons.netdna-ssl.com,external,,
+newrelic.com,js-agent.newrelic.com,external,,
+nexac.com,e.nexac.com,external,,
+nexac.com,p.nexac.com,external,,
+nhtsa.gov,www.nhtsa.gov,external,Government,
+nhtsawebserver.com,distractionnews.nhtsawebserver.com,external,,
+nicic.gov,static.nicic.gov,internal,,
+nih.com,nih.com,external,,
+nih.gov,wtsdc.nlm.nih.gov,external,Government,
+nih.gov,www.ncbi.nlm.nih.gov,external,Government,
+nih.gov,www.nlm.nih.gov,external,Government,
+nij.gov,search.nij.gov,internal,,
+noaa.gov,www.goes.noaa.gov,external,Government,
+noaa.gov,www.nmfs.noaa.gov,external,Government,
+noaa.gov,search.noaa.gov,internal,,
+norton.com,seal.websecurity.norton.com,external,,
+nps.gov,www.nps.gov,external,Government,
+nr-data.net,bam.nr-data.net,external,,
+nrd.gov,www.nrd.gov,external,Government,
+ojp.gov,ojp.gov,external,Government,
+omtrdc.net,censusbureau.d1.sc.omtrdc.net,external,,
+omtrdc.net,faa.d2.sc.omtrdc.net,external,,Duplicate SLD
+omtrdc.net,nhtsa.d2.sc.omtrdc.net,external,,Duplicate SLD
+onstreamsecure.com,sqps.onstreamsecure.com,external,no,
+opm.gov,www.opm.gov,external,Government,
+optimizely.com,166688199.log.optimizely.com,external,,
+optimizely.com,cdn.optimizely.com,external,,Duplicate SLD
+optimizely.com,cdn3.optimizely.com,external,,Duplicate SLD
+orau.gov,orise.orau.gov,internal,,
+organdonor.gov,www.organdonor.gov,external,Government,
+ornl.gov,web.ornl.gov,external,Government,
+ornl.gov,www.olcf.ornl.gov,external,Government,
+ornl.gov,analytics.ornl.gov,internal,,
+osac.gov,analytics.osac.gov,internal,,
+osha.gov,www.osha.gov,external,Government,
+osmre.gov,www.wrcc.osmre.gov,internal,,
+owneriq.net,px.owneriq.net,external,,
+pagefair.com,asset.pagefair.com,external,,
+pagefair.com,stats.pagefair.com,external,,Duplicate SLD
+pagefair.net,asset.pagefair.net,external,,
+pages04.net,www.pages04.net,external,,
+pages04.net,www.sc.pages04.net,external,,Duplicate SLD
+pbgc.gov,metrics.pbgc.gov,internal,,
+pbgc.gov,search.pbgc.gov,internal,,
+pingdom.net,rum-collector.pingdom.net,external,,
+pingdom.net,rum-static.pingdom.net,external,,Duplicate SLD
+pinimg.com,i.pinimg.com,external,,
+pinterest.com,api.pinterest.com,external,no,
+pinterest.com,assets.pinterest.com,external,,Duplicate SLD
+pinterest.com,log.pinterest.com,external,,Duplicate SLD
+pinterest.com,widgets.pinterest.com,external,,Duplicate SLD
+pippio.com,pippio.com,external,,
+pnnl.gov,www.pnnl.gov,external,Government,
+polyfill.io,cdn.polyfill.io,external,,
+powertrain.com,powertrain.com,external,,
+preserveamerica.gov,www.preserveamerica.gov,external,Government,
+pretrialservices.gov,pretrialservices.gov,external,Government,
+printfriendly.com,pf-cdn.printfriendly.com,external,,
+pusher.com,js.pusher.com,external,,
+qualtrics.com,siteintercept.qualtrics.com,external,Customer Satisfaction,
+qualtrics.com,zn_ahe7ogbrpdtefrh-healthcare.siteintercept.qualtrics.com,external,,Duplicate SLD
+qualtrics.com,zn5jrgx7vw6xadien-cfigroup.siteintercept.qualtrics.com,external,,Duplicate SLD
+qualtrics.com,zn9tslis2mj3kopgp-cfigroup.siteintercept.qualtrics.com,external,,Duplicate SLD
+qualtrics.com,znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com,external,,Duplicate SLD
+quantserve.com,edge.quantserve.com,external,,"It looks like it's for demographic analytics, not customer service.  "
+quantserve.com,pixel.quantserve.com,external,,Duplicate SLD
+quantserve.com,secure.quantserve.com,external,,Duplicate SLD
+rackcdn.com,c520866.ssl.cf2.rackcdn.com,external,,
+rawgit.com,cdn.rawgit.com,external,,
+readspeaker.com,f1-eu.readspeaker.com,external,,
+readspeaker.com,f1-na.readspeaker.com,external,,Duplicate SLD
+readspeaker.com,f1.na.readspeaker.com,external,,Duplicate SLD
+reddit.com,www.reddit.com,external,,
+research.gov,wt.research.gov,external,Government,
+research.gov,wt.research.gov,internal,,
+reson8.com,ds.reson8.com,external,,
+rlcdn.com,ei.rlcdn.com,external,,
+rlcdn.com,idsync.rlcdn.com,external,,Duplicate SLD
+rlcdn.com,rc.rlcdn.com,external,,Duplicate SLD
+rnengage.com,www.rnengage.com,external,,
+rrb.gov,secure.rrb.gov,internal,,
+salesforce.com,login.salesforce.com,external,,
+salesforce.com,na26.salesforce.com,external,,Duplicate SLD
+samhsa.gov,www.samhsa.gov,external,Government,
+samhsa.gov,beta.samhsa.gov,internal,,
+sandia.gov,share-ng.sandia.gov,internal,,
+sandia.gov,share.sandia.gov,internal,,
+science360.gov,media.science360.gov,internal,,
+scorecardresearch.com,b.scorecardresearch.com,external,Analytics,analytics
+scorecardresearch.com,sb.scorecardresearch.com,external,,Duplicate SLD
+senate.gov,sdc1.senate.gov,internal,,
+sharethis.com,edge.sharethis.com,external,,
+sharethis.com,l.sharethis.com,external,,Duplicate SLD
+sharethis.com,ss.sharethis.com,external,,Duplicate SLD
+sharethis.com,sync.sharethis.com,external,,Duplicate SLD
+sharethis.com,t.sharethis.com,external,,Duplicate SLD
+sharethis.com,w.sharethis.com,external,,Duplicate SLD
+sharethis.com,ws.sharethis.com,external,,Duplicate SLD
+silverchair.com,orbital-ecri.silverchair.com,external,,
+sitecues.com,js.sitecues.com,external,,
+siteidiq.gov,passwordreset.siteidiq.gov,internal,,
+siteimprove.com,us1.siteimprove.com,external,,
+siteimprove.com,us2.siteimprove.com,external,,Duplicate SLD
+siteimproveanalytics.com,siteimproveanalytics.com,external,,analytics with an option for feedback
+socialsecurity.gov,www.socialsecurity.gov,external,Government,
+sojern.com,pixel.sojern.com,external,,
+squarespace.com,internal.squarespace.com,external,,
+squarespace.com,static.squarespace.com,external,,Duplicate SLD
+squarespace.com,static1.squarespace.com,external,,Duplicate SLD
+ssa.gov,www.ssa.gov,external,Government,
+state.gov,blogs.state.gov,internal,,
+staticflickr.com,c1.staticflickr.com,external,,
+staticflickr.com,c2.staticflickr.com,external,,Duplicate SLD
+staticflickr.com,farm1.staticflickr.com,external,,Duplicate SLD
+staticflickr.com,farm2.staticflickr.com,external,,Duplicate SLD
+staticflickr.com,farm4.staticflickr.com,external,,Duplicate SLD
+staticflickr.com,farm5.staticflickr.com,external,,Duplicate SLD
+staticflickr.com,farm6.staticflickr.com,external,,Duplicate SLD
+staticflickr.com,farm8.staticflickr.com,external,,Duplicate SLD
+staticflickr.com,farm9.staticflickr.com,external,,Duplicate SLD
+statisticsframework.com,www.statisticsframework.com,external,,
+statuspage.io,cdn.statuspage.io,external,,
+statuspage.io,swcbylb1c30f.statuspage.io,external,,Duplicate SLD
+studentloans.gov,static.studentloans.gov,internal,,
+surveymonkey.com,assets01.surveymonkey.com,external,Customer Satisfaction,
+surveymonkey.com,secure.surveymonkey.com,external,Customer Satisfaction,Duplicate SLD
+surveymonkey.com,surveymonkey.com,external,,Duplicate SLD
+surveymonkey.com,widget.surveymonkey.com,external,,Duplicate SLD
+surveymonkey.com,www.surveymonkey.com,external,,Duplicate SLD
+symplicity.com,static.symplicity.com,external,,
+t.im,t.im,external,,
+taboola.com,trc.taboola.com,external,,
+thebrighttag.com,s.thebrighttag.com,external,,
+tinypic.com,i64.tinypic.com,external,,
+tiqcdn.com,tags.tiqcdn.com,external,,
+tracelytics.com,beacon.tracelytics.com,external,,
+treas.gov,eroc.ssologin1.fms.treas.gov,external,Government,
+treasury.gov,sdc.fiscal.treasury.gov,external,Government,
+truste.com,privacy-policy.truste.com,external,,
+tumblr.com,68.media.tumblr.com,external,,
+tva.gov,oig.tva.gov,external,Government,
+twimg.com,abs.twimg.com,external,,
+twimg.com,cdn.syndication.twimg.com,external,,Duplicate SLD
+twimg.com,o.twimg.com,external,,Duplicate SLD
+twimg.com,pbs.twimg.com,external,,Duplicate SLD
+twimg.com,ton.twimg.com,external,,Duplicate SLD
+twimg.com,widgets.twimg.com,external,,Duplicate SLD
+twitter.com,platform.twitter.com,external,no,
+twitter.com,syndication.twitter.com,external,,Duplicate SLD
+tynt.com,cdn.tynt.com,external,,
+typekit.com,use.typekit.com,external,,
+typekit.net,p.typekit.net,external,,
+typekit.net,use.typekit.net,external,,Duplicate SLD
+typography.com,cloud.typography.com,external,,
+unt.edu,govinfo.library.unt.edu,external,,
+usa.gov,fedramp.sites.usa.gov,external,Government,
+usa.gov,manufacturing.sites.usa.gov,external,Government,
+usa.gov,privacy.sites.usa.gov,external,Government,
+usa.gov,search.usa.gov,external,Government,
+usa.gov,searchstats.usa.gov,external,Government,
+usa.gov,survey.usa.gov,external,Government,
+usa.gov,ussm.sites.usa.gov,external,Government,
+usa.gov,search.usa.gov,internal,,
+usa.gov,standards.usa.gov,internal,,
+usa.gov,survey.usa.gov,internal,,
+usaspending.gov,apps.usaspending.gov,internal,,
+usastaffing.gov,signin.usastaffing.gov,internal,,
+uscc.gov,origin.www.uscc.gov,internal,,
+uscis.gov,ceciva.uscis.gov,internal,,
+usda.gov,data.nal.usda.gov,external,Government,
+usda.gov,homes.sc.egov.usda.gov,external,Government,
+usda.gov,www.nal.usda.gov,external,Government,
+usdoj.gov,www.ojp.usdoj.gov,external,Government,
+usembassy.gov,sdc.usembassy.gov,external,Government,
+usembassy.gov,spanish.mexico.usembassy.gov,external,Government,
+usersnap.com,api.usersnap.com,external,,
+uservoice.com,by2.uservoice.com,external,Customer Satisfaction,
+uservoice.com,widget.uservoice.com,external,,Duplicate SLD
+usgs.gov,gec.cr.usgs.gov,external,Government,
+usgs.gov,lmvsci-t.cr.usgs.gov,external,Government,
+usgs.gov,ngtoc.usgs.gov,external,Government,
+usgs.gov,nwrcgis.cr.usgs.gov,external,Government,
+usgs.gov,nwrcgis10.cr.usgs.gov,external,Government,
+usgs.gov,water.usgs.gov,external,Government,
+usgs.gov,waterwatch.usgs.gov,external,Government,
+usgs.gov,www.usgs.gov,external,Government,
+usgs.gov,www2.usgs.gov,external,Government,
+usgs.gov,itsupport.usgs.gov,internal,,
+usgs.gov,www2.usgs.gov,internal,,
+usich.gov,www.usich.gov,external,Government,
+usmint.gov,www.usmint.gov,external,Government,
+uspis.gov,postalinspectors.uspis.gov,internal,,
+uspto.gov,components.uspto.gov,internal,,
+uspto.gov,search.uspto.gov,internal,,
+va.gov,www.ebenefits.va.gov,external,Government,
+verisign.com,seal.verisign.com,external,no,
+vets.gov,api.vets.gov,internal,,
+vimeo.com,player.vimeo.com,external,no,
+vimeo.com,vimeo.com,external,,Duplicate SLD
+vimeocdn.com,f.vimeocdn.com,external,no,
+vimeocdn.com,i.vimeocdn.com,external,,Duplicate SLD
+virtualearth.net,dev.virtualearth.net,external,no,
+virtualearth.net,ecn.dev.virtualearth.net,external,,Duplicate SLD
+virtualearth.net,t0.ssl.ak.dynamic.tiles.virtualearth.net,external,,Duplicate SLD
+virtualearth.net,t0.ssl.ak.tiles.virtualearth.net,external,,Duplicate SLD
+virtualearth.net,t1.ssl.ak.dynamic.tiles.virtualearth.net,external,,Duplicate SLD
+virtualearth.net,t1.ssl.ak.tiles.virtualearth.net,external,,Duplicate SLD
+virtualearth.net,t2.ssl.ak.dynamic.tiles.virtualearth.net,external,,Duplicate SLD
+virtualearth.net,t2.ssl.ak.tiles.virtualearth.net,external,,Duplicate SLD
+virtualearth.net,t3.ssl.ak.dynamic.tiles.virtualearth.net,external,,Duplicate SLD
+virtualearth.net,t3.ssl.ak.tiles.virtualearth.net,external,,Duplicate SLD
+visitthecapitol.gov,www.visitthecapitol.gov,external,Government,
+visualwebsiteoptimizer.com,dev.visualwebsiteoptimizer.com,external,,
+w3.org,jigsaw.w3.org,external,,
+w3.org,www.w3.org,external,,Duplicate SLD
+weather.gov,forecast.weather.gov,internal,,
+weborama.com,dx.bigsea.weborama.com,external,,
+weborama.fr,idsync.weborama.fr,external,,
+webtrends.com,s.webtrends.com,external,,
+webtrendslive.com,statse.webtrendslive.com,external,no,
+wideeyeclient.com,secure.wideeyeclient.com,external,,
+wikimedia.org,upload.wikimedia.org,external,,
+wordpress.com,tradegov.files.wordpress.com,external,,
+wp.com,i2.wp.com,external,,
+wp.com,pixel.wp.com,external,,Duplicate SLD
+wp.com,s0.wp.com,external,,Duplicate SLD
+wp.com,stats.wp.com,external,,Duplicate SLD
+wtp101.com,www.wtp101.com,external,,
+yahoo.com,geo.query.yahoo.com,external,,
+yahoo.com,geo.yahoo.com,external,,Duplicate SLD
+yahooapis.com,query.yahooapis.com,external,,
+youtube-nocookie.com,www.youtube-nocookie.com,external,,
+youtube.com,gdata.youtube.com,external,,
+youtube.com,img.youtube.com,external,,Duplicate SLD
+youtube.com,s.youtube.com,external,,Duplicate SLD
+youtube.com,www.youtube.com,external,,Duplicate SLD
+ytimg.com,i.ytimg.com,external,,
+ytimg.com,i4.ytimg.com,external,,Duplicate SLD
+ytimg.com,s.ytimg.com,external,,Duplicate SLD
+zencdn.net,vjs.zencdn.net,external,,
