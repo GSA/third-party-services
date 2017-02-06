@@ -11,4 +11,8 @@ Researching the use of 3rd party services by .gov websites
 
 ## Initial Scan and Analysis 
 
+The below is from a January, 2017 initial scan for the use of third party services by .gov websites.  More details on the methodology [can be found here](https://github.com/18F/domain-scan/pull/107).  
 
+* [Initial Data](https://github.com/18F/third-party-services/blob/master/data/1-17_scan/third_parties-initial.csv) - _[Direct Link](https://raw.githubusercontent.com/18F/third-party-services/master/data/1-17_scan/third_parties-initial.csv)_   
+* [Full List of Detected Services](https://github.com/18F/third-party-services/blob/master/data/1-17_scan/initial-parsing.csv) - _[Direct Link](https://raw.githubusercontent.com/18F/third-party-services/master/data/1-17_scan/initial-parsing.csv)_   
+* [Dedupped List of Detected Services](https://github.com/18F/third-party-services/blob/master/data/1-17_scan/dedupped-list.csv) - _[Direct Link](https://raw.githubusercontent.com/18F/third-party-services/master/data/1-17_scan/dedupped-list.csv)_    
