@@ -10,8 +10,8 @@ Researching the use of 3rd party services by .gov websites
 * [Draft Informational Page on a Site's Third Party Services](https://github.com/18F/18f.gsa.gov/blob/72a19e47c3652c1bd7fbd8e8aaed04376939c530/pages/privacy.md)
 
 ## Research
-* [Catalog of Third Party Services and Their Domains]()
-* [What Customer Satisfaction Tools are Federal Websites Using?]()
+* [Catalog of Third Party Services and Their Domains](https://github.com/18F/third-party-services/blob/master/materials/catalog-of-services.md)
+* [What Customer Satisfaction Tools are Federal Websites Using?](https://github.com/18F/third-party-services/issues/2)
 
 
 
