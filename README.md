@@ -1,5 +1,6 @@
-# third-party-services
-Researching the use of 3rd party services by .gov websites
+# Third Party Services 
+
+Researching the use of third party services by .gov websites
 
 ## Documentation 
 
@@ -23,7 +24,7 @@ The below is from a January, 2017 initial scan for the use of third party servic
     * [Dedupped List of Detected Services](https://github.com/18F/third-party-services/blob/master/data/1-17_scan/dedupped-list.csv) - _[Direct Link](https://raw.githubusercontent.com/18F/third-party-services/master/data/1-17_scan/dedupped-list.csv)_    
       * [Initial Analysis](https://github.com/18F/third-party-services/blob/master/data/1-17_scan/initial-analysis.csv) - _[Direct Link](https://raw.githubusercontent.com/18F/third-party-services/master/data/1-17_scan/initial-analysis.csv)_    
       
+## Customer Satisfaction Tools
       
-      
-      
-      
+* [Overview and Links](https://github.com/18F/third-party-services/blob/master/materials/customer-satisfaction-notes.md)
+
