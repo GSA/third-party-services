@@ -12,6 +12,9 @@ _This list is underconstruction.  Please [add](https://github.com/18F/third-part
 | iPerceptions  | api.iperceptions.com	  |   |
 |  Foresee | health.foresee.com	  |   |
 | Foresee  |  events.foreseeresults.com	 |   |
+| Hotjar  | script.hotjar.com	  |   |
+| Hotjar  |  static.hotjar.com	 | https://docs.hotjar.com/docs/hotjar-tracking-code  |  
+| Hotjar  | vars.hotjar.com  |   |
 | HHS Voice of Customer Tool  |  js.hs-analytics.net	 |   |
 |  Mixpanel | api.mixpanel.com  |   |
 |  Qualtrics | siteintercept.qualtrics.com	  |   |
