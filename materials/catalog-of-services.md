@@ -18,7 +18,6 @@ _This list is underconstruction.  Please [add](https://github.com/18F/third-part
 | Hotjar  | script.hotjar.com	  |   |
 | Hotjar  |  static.hotjar.com	 | https://docs.hotjar.com/docs/hotjar-tracking-code  |  
 | Hotjar  | vars.hotjar.com  |   |
-| HHS Voice of Customer Tool  |  js.hs-analytics.net	 |   |
 |  Mixpanel | api.mixpanel.com  |   |
 |  Qualtrics | siteintercept.qualtrics.com	  |   |
 |  Qualaroo | s3.amazonaws.com/ki.js	  |  http://help.qualaroo.com/hc/en-us/articles/201405336-Installing-the-JavaScript-on-your-Site |
@@ -50,6 +49,7 @@ _This list is underconstruction.  Please [add](https://github.com/18F/third-part
 |  ContentWRX [possible customer satisfaction tool] |  contentwrx.s3.amazonaws.com	 |   |
 |  DOBT Screendoor  [possible customer satisfaction tool] |   |   |
 | Google Fonts  | fonts.googleapis.com  |   |
+| HHS Voice of Customer Tool [possible customer satisfaction tool] | 	 |   |
 |  Kampyle [possible customer satisfaction tool] |  www.kampyle.com | https://www.kampyle.com/embed-form-instructions/5714613/34984/1ad54a5cffca41a3415ec799c4cd2f41/8  |
 |  Qeryz [possible customer satisfaction tool]  |   |   |
 
