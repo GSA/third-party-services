@@ -6,9 +6,7 @@ _This list is underconstruction.  Please [add](https://github.com/18F/third-part
 
 | Name  | URL  | Citation |
 |---|---|---|
-
 |  Informizely (formerly Insitez) |  insitez.blob.core.windows.net	 |  https://www.informizely.com/Help/InstallationGuides#gaTagManager |
-
 |  iPerceptions |  iperceptions01.azureedge.net	 |   |
 | iPerceptions  | ips-invite.iperceptions.com	  |   |
 | iPerceptions  |  universal.iperceptions.com	 |   |
